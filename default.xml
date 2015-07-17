@@ -519,6 +519,6 @@
 <!-- E610 Device Tree, Kernel and Vendor -->
   <project path="device/lge/msm7x27a-common" name="lgoptimusdev/android_device_lge_msm7x27a-common"/>
   <project path="device/lge/e610" name="lgoptimusdev/android_device_lge_e610"/>
-  <project path="kernel/lge/msm7x27a-common" name="aidasaidas75/lge-kernel-lproj" revision="cm-12.1-exp" />
+  <project path="kernel/lge/msm7x27a-common" name="lgoptimusdev/lge-kernel-lproj" revision="cm-12.1-exp" />
   <project path="vendor/lge" name="lgoptimusdev/proprietary_vendor_lge"/>
 </manifest>
